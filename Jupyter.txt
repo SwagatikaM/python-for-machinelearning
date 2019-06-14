@@ -1,0 +1,2 @@
+Shift + Tab = expands signature of the method
+Ctrl + Enter = runs current cell multipletimes
